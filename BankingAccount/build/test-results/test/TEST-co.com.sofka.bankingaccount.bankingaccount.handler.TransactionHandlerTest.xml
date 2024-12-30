@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="co.com.sofka.bankingaccount.bankingaccount.handler.TransactionHandlerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-12-27T19:11:04" hostname="INFS-ECU-LT1136" time="1.762">
+  <properties/>
+  <testcase name="testExecuteTransactionSuccess()" classname="co.com.sofka.bankingaccount.bankingaccount.handler.TransactionHandlerTest" time="1.762"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
